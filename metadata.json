@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of StelleCloud Training & DevOps Portal New",
+  "description": "A comprehensive Training Management Platform featuring course orchestration, admin metrics, and a full-stack DevOps architecture visualization inspired by the StelleCloud production-grade platform.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
